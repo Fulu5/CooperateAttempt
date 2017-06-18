@@ -16,7 +16,7 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // hello there
+    // Hello, there.
     NSLog(@"001");
     return YES;
 }
